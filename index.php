@@ -7,6 +7,7 @@
 </head>
 <body>
     <p>inicio de tema de git</p>
-    <p>subiendo a la rama</p>
+    <p>subiendo a la rama2 y esperando resultado de mezcla</p>
+
 </body>
 </html>
