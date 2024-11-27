@@ -9,5 +9,10 @@
     <p>inicio de tema de git</p>
     <p>subiendo a la rama2 y esperando resultado de mezcla</p>
 
+    <p>subiendo a la rama 1</p>
+
+    <script>
+        console.log('agregando cambios en javascript en rama 01');
+    </script>
 </body>
 </html>
