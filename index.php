@@ -7,6 +7,10 @@
 </head>
 <body>
     <p>inicio de tema de git</p>
-    <p>subiendo a la rama</p>
+    <p>subiendo a la rama 1</p>
+
+    <script>
+        console.log('agregando cambios en javascript en rama 01');
+    </script>
 </body>
 </html>
